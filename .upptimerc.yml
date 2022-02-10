@@ -18,6 +18,9 @@ sites:
       - RocioCM
       - Juanma1223
       - AgustinDGonzalez
+  - name: Lila Landing
+    url: https://web.lilasolutions.com.ar/landing/
+    icon: https://web.lilasolutions.com.ar/landing/images/lila-logo-color.png
   - name: Broken Site
     url: https://google.com.ar
     
