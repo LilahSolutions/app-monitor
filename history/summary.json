@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 759,
-    "timeDay": 759,
-    "timeWeek": 759,
-    "timeMonth": 759,
-    "timeYear": 759,
+    "time": 750,
+    "timeDay": 750,
+    "timeWeek": 750,
+    "timeMonth": 750,
+    "timeYear": 750,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 134,
-    "timeWeek": 134,
-    "timeMonth": 134,
-    "timeYear": 134,
+    "time": 133,
+    "timeDay": 133,
+    "timeWeek": 133,
+    "timeMonth": 133,
+    "timeYear": 133,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 764,
-    "timeDay": 764,
-    "timeWeek": 764,
-    "timeMonth": 764,
-    "timeYear": 764,
+    "time": 761,
+    "timeDay": 761,
+    "timeWeek": 761,
+    "timeMonth": 761,
+    "timeYear": 761,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,18 @@
     "icon": "https://favicons.githubusercontent.com/facu.capo.jeje",
     "slug": "broken-site",
     "status": "down",
-    "uptime": "61.54%",
-    "uptimeDay": "61.54%",
-    "uptimeWeek": "61.54%",
-    "uptimeMonth": "61.54%",
-    "uptimeYear": "61.54%",
+    "uptime": "55.97%",
+    "uptimeDay": "55.97%",
+    "uptimeWeek": "55.97%",
+    "uptimeMonth": "55.97%",
+    "uptimeYear": "55.97%",
     "time": 356,
     "timeDay": 356,
     "timeWeek": 356,
     "timeMonth": 356,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2022-02-10": 10
+      "2022-02-10": 13
     }
   }
 ]
