@@ -5,20 +5,34 @@ repo: app-monitor # The name of this repository
 sites:
   - name: Urbi
     url: https://urbi.lilasolutions.com.ar
+    assignees: 
+      - RocioCM
+      - Juanma1223
+      - SebaFuchi
+      - AgustinDGonzalez
+      
   - name: Urbi (Backoffice)
     url: https://urbi.lilasolutions.com.ar/backoffice
+    assignees:
+      - RocioCM
+      - Juanma1223
+      - SebaFuchi
+      - AgustinDGonzalez
     
 assignees:
   -FacuBenito
   -Landriou
   -SebaFuchi
+  -RocioCM
+  -Juanma1223
 
 status-website:
+  theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: lilahsolutions.github.io
   baseUrl: /app-monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://web.lilasolutions.com.ar/landing/images/lila-logo-white.svg
   name: Lila Monitor
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
