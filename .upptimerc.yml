@@ -5,6 +5,7 @@ repo: app-monitor # The name of this repository
 sites:
   - name: Urbi
     url: https://urbi.lilasolutions.com.ar
+    icon: https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg
     assignees: 
       - RocioCM
       - Juanma1223
@@ -13,6 +14,7 @@ sites:
       
   - name: Urbi (Backoffice)
     url: https://urbi.lilasolutions.com.ar/backoffice
+    icon: https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg
     assignees:
       - RocioCM
       - Juanma1223
