@@ -19,7 +19,7 @@ sites:
       - Juanma1223
       - AgustinDGonzalez
   - name: Broken Site
-    url: https://broken.facu.pro
+    url: https://google.com.ar
     
 assignees:
   -FacuBenito
