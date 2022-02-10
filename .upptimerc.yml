@@ -22,11 +22,14 @@ sites:
     url: https://web.lilasolutions.com.ar/landing/
     icon: https://web.lilasolutions.com.ar/landing/images/lila-logo-color.png
   - name: Broken Site
-    url: https://google.com.ar
+    url: https://facu.capo.jeje
+    assignees:
+      -Juanma1223
+      -RocioCM
+      -FacuBenito
     
 assignees:
   -FacuBenito
-  -Landriou
   -RocioCM
   -Juanma1223
 
