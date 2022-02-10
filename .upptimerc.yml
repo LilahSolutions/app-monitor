@@ -6,32 +6,24 @@ sites:
   - name: Urbi
     url: https://urbi.lilasolutions.com.ar
     icon: https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg
-    assignees: 
-      - RocioCM
-      - Juanma1223
-      - AgustinDGonzalez
       
   - name: Urbi (Backoffice)
     url: https://urbi.lilasolutions.com.ar/backoffice
     icon: https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg
-    assignees:
-      - RocioCM
-      - Juanma1223
-      - AgustinDGonzalez
+
   - name: Lila Landing
     url: https://web.lilasolutions.com.ar/landing/
     icon: https://web.lilasolutions.com.ar/landing/images/lila-logo-color.png
+    
   - name: Broken Site
     url: https://facu.capo.jeje
-    assignees:
-      -Juanma1223
-      -RocioCM
-      -FacuBenito
+
     
 assignees:
   -FacuBenito
   -RocioCM
   -Juanma1223
+  -SebaFuchi
 
 status-website:
   theme: night
