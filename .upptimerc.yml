@@ -9,7 +9,6 @@ sites:
     assignees: 
       - RocioCM
       - Juanma1223
-      - SebaFuchi
       - AgustinDGonzalez
       
   - name: Urbi (Backoffice)
@@ -18,7 +17,6 @@ sites:
     assignees:
       - RocioCM
       - Juanma1223
-      - SebaFuchi
       - AgustinDGonzalez
   - name: Broken Site
     url: https://broken.facu.pro
@@ -26,7 +24,6 @@ sites:
 assignees:
   -FacuBenito
   -Landriou
-  -SebaFuchi
   -RocioCM
   -Juanma1223
 
