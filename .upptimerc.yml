@@ -18,6 +18,8 @@ sites:
       - Juanma1223
       - SebaFuchi
       - AgustinDGonzalez
+  - name: Broken Site
+    url: https://broken.facu.pro
     
 assignees:
   -FacuBenito
