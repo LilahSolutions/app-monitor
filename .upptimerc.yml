@@ -67,9 +67,6 @@ sites:
       - RocioCM
       - Juanma1223
       - AgustinDGonzalez
-      
-  - name: Broken Site
-    url: https://google.com.ar
     
 # assignees:
 
