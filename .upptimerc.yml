@@ -40,7 +40,7 @@ sites:
       
   - name: Hermes - Login
     icon: https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg
-    url: https://urbi.lilasolutions.com.ar/api/hermes-user/users//login?from=aegir-backoffice
+    url: https://urbi.lilasolutions.com.ar/api/hermes-user/users/login?from=aegir-backoffice
     method: POST
     headers: 
       - "Content-Type: application/json"
