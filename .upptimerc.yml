@@ -12,7 +12,7 @@ sites:
       - SebaFuchi
       - AgustinDGonzalez
       
-  - name: Urbi (Backoffice)
+  - name: Urbi - Backoffice
     url: https://urbi.lilasolutions.com.ar/backoffice
     icon: https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg
     assignees: 
@@ -21,6 +21,45 @@ sites:
       - SebaFuchi
       - AgustinDGonzalez
       
+  - name: Urbi (GetAllEstablishments)
+    url: https://urbi.lilasolutions.com.ar/api/aegir-backend/establishments
+    icon: https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg
+    method: GET
+    assignees:
+      - Juanma1223
+      - SebaFuchi
+  
+  - name: Urbi (GetEstablishmentById)
+    url: https://urbi.lilasolutions.com.ar/api/aegir-backend/establishments/22ffa460-6890-4877-9e23-857565010a8d
+    icon: https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg
+    method: GET
+    assignees:
+      - Juanma1223
+      - SebaFuchi
+    maxResponseTime: 5000
+      
+  - name: Hermes - Login
+    icon: https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg
+    url: https://urbi.lilasolutions.com.ar/api/hermes-user/users//login?from=aegir-backoffice
+    method: POST
+    headers: 
+      - "Content-Type: application/json"
+    body: '{ "password":"tester1", "user": "tester1" }'
+    assignees:
+      - Juanma1223
+      - SebaFuchi
+     
+  - name: Urbi - Backoffice ()
+    icon: https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg
+    url: https://urbi.lilasolutions.com.ar/api/aegir-backend/establishments/df4cfd9c-c753-48d6-aeea-a35934feeb25?part=status
+    method: PUT
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "status": "yellow" }'
+    assignees:
+      - Juanma1223
+      - SebaFuchi
+    
   - name: Lila Landing
     url: https://web.lilasolutions.com.ar/landing/
     icon: https://web.lilasolutions.com.ar/landing/images/lila-logo-color.png
@@ -32,11 +71,7 @@ sites:
   - name: Broken Site
     url: https://google.com.ar
     
-assignees:
-  - FacuBenito
-  - RocioCM
-  - Juanma1223
-  - SebaFuchi
+# assignees:
 
 status-website:
   theme: night
