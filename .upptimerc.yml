@@ -49,7 +49,7 @@ sites:
       - Juanma1223
       - SebaFuchi
      
-  - name: Urbi - Backoffice ()
+  - name: Urbi - Backoffice (UpdateEstablishment)
     icon: https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg
     url: https://urbi.lilasolutions.com.ar/api/aegir-backend/establishments/df4cfd9c-c753-48d6-aeea-a35934feeb25?part=status
     method: PUT
