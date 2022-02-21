@@ -61,8 +61,8 @@ sites:
       - SebaFuchi
     
   - name: Lila Landing
-    url: https://web.lilasolutions.com.ar/landing/
-    icon: https://web.lilasolutions.com.ar/landing/images/lila-logo-color.png
+    url: https://urbi.lilasolutions.com.ar/landing/
+    icon: https://urbi.lilasolutions.com.ar/landing/images/lila-logo-color.png
     assignees: 
       - RocioCM
       - Juanma1223
