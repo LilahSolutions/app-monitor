@@ -79,11 +79,11 @@
     "icon": "https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg",
     "slug": "hermes-login",
     "status": "up",
-    "uptime": "99.08%",
+    "uptime": "99.16%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.08%",
-    "uptimeYear": "99.08%",
+    "uptimeMonth": "99.16%",
+    "uptimeYear": "99.16%",
     "time": 156,
     "timeDay": 180,
     "timeWeek": 173,
@@ -116,9 +116,9 @@
     "url": "https://web.lilasolutions.com.ar/landing/",
     "icon": "https://web.lilasolutions.com.ar/landing/images/lila-logo-color.png",
     "slug": "lila-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -127,6 +127,8 @@
     "timeWeek": 876,
     "timeMonth": 815,
     "timeYear": 815,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-21": 0
+    }
   }
 ]
