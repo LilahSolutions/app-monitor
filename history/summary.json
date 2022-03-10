@@ -4,19 +4,19 @@
     "url": "https://urbi.lilasolutions.com.ar",
     "icon": "https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg",
     "slug": "urbi",
-    "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "97.06%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "status": "down",
+    "uptime": "99.89%",
+    "uptimeDay": "96.84%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
     "time": 747,
     "timeDay": 684,
     "timeWeek": 681,
     "timeMonth": 740,
     "timeYear": 747,
     "dailyMinutesDown": {
-      "2022-03-10": 42
+      "2022-03-10": 45
     }
   },
   {
@@ -24,10 +24,10 @@
     "url": "https://urbi.lilasolutions.com.ar/backoffice",
     "icon": "https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg",
     "slug": "urbi-backoffice",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "97.07%",
-    "uptimeWeek": "99.58%",
+    "uptimeDay": "96.88%",
+    "uptimeWeek": "99.55%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
     "time": 132,
@@ -36,7 +36,7 @@
     "timeMonth": 132,
     "timeYear": 132,
     "dailyMinutesDown": {
-      "2022-03-10": 42,
+      "2022-03-10": 45,
       "2022-02-11": 2
     }
   },
@@ -45,19 +45,19 @@
     "url": "https://urbi.lilasolutions.com.ar/api/aegir-backend/establishments",
     "icon": "https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg",
     "slug": "urbi-get-all-establishments",
-    "status": "up",
-    "uptime": "99.85%",
-    "uptimeDay": "95.79%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "99.85%",
-    "uptimeYear": "99.85%",
+    "status": "down",
+    "uptime": "99.84%",
+    "uptimeDay": "95.64%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
     "time": 369,
     "timeDay": 1780,
     "timeWeek": 893,
     "timeMonth": 369,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2022-03-10": 60
+      "2022-03-10": 62
     }
   },
   {
@@ -65,10 +65,10 @@
     "url": "https://urbi.lilasolutions.com.ar/api/aegir-backend/establishments/22ffa460-6890-4877-9e23-857565010a8d",
     "icon": "https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg",
     "slug": "urbi-get-establishment-by-id",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "95.81%",
-    "uptimeWeek": "99.40%",
+    "uptimeDay": "95.70%",
+    "uptimeWeek": "99.39%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
     "time": 376,
@@ -77,7 +77,7 @@
     "timeMonth": 376,
     "timeYear": 376,
     "dailyMinutesDown": {
-      "2022-03-10": 60
+      "2022-03-10": 62
     }
   },
   {
@@ -86,18 +86,18 @@
     "icon": "https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg",
     "slug": "hermes-login",
     "status": "down",
-    "uptime": "99.40%",
-    "uptimeDay": "92.36%",
-    "uptimeWeek": "98.91%",
-    "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
+    "uptime": "99.35%",
+    "uptimeDay": "90.97%",
+    "uptimeWeek": "98.71%",
+    "uptimeMonth": "99.35%",
+    "uptimeYear": "99.35%",
     "time": 579,
     "timeDay": 3108,
     "timeWeek": 1630,
     "timeMonth": 579,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2022-03-10": 110,
+      "2022-03-10": 130,
       "2022-02-11": 132
     }
   },
@@ -107,18 +107,18 @@
     "icon": "https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg",
     "slug": "urbi-backoffice-update-establishment",
     "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "91.24%",
-    "uptimeWeek": "98.75%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.64%",
+    "uptimeDay": "89.86%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.64%",
+    "uptimeYear": "99.64%",
     "time": 340,
     "timeDay": 1515,
     "timeWeek": 828,
     "timeMonth": 340,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2022-03-10": 126
+      "2022-03-10": 146
     }
   },
   {
@@ -126,7 +126,7 @@
     "url": "https://urbi.lilasolutions.com.ar/landing/",
     "icon": "https://urbi.lilasolutions.com.ar/landing/images/lila-logo-color.png",
     "slug": "lila-landing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
     "uptimeDay": "97.07%",
     "uptimeWeek": "99.58%",
