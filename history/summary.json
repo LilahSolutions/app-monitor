@@ -13,7 +13,7 @@
     "time": 749,
     "timeDay": 775,
     "timeWeek": 722,
-    "timeMonth": 748,
+    "timeMonth": 753,
     "timeYear": 749,
     "dailyMinutesDown": {
       "2022-03-10": 66
@@ -33,7 +33,7 @@
     "time": 133,
     "timeDay": 178,
     "timeWeek": 143,
-    "timeMonth": 134,
+    "timeMonth": 135,
     "timeYear": 133,
     "dailyMinutesDown": {
       "2022-03-10": 65,
@@ -46,18 +46,19 @@
     "icon": "https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg",
     "slug": "urbi-get-all-establishments",
     "status": "down",
-    "uptime": "99.54%",
-    "uptimeDay": "87.15%",
-    "uptimeWeek": "98.16%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
+    "uptime": "99.36%",
+    "uptimeDay": "82.05%",
+    "uptimeWeek": "97.44%",
+    "uptimeMonth": "99.36%",
+    "uptimeYear": "99.36%",
     "time": 369,
     "timeDay": 2306,
     "timeWeek": 976,
-    "timeMonth": 369,
+    "timeMonth": 384,
     "timeYear": 369,
     "dailyMinutesDown": {
-      "2022-03-10": 184
+      "2022-03-11": 53,
+      "2022-03-10": 205
     }
   },
   {
@@ -66,18 +67,19 @@
     "icon": "https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg",
     "slug": "urbi-get-establishment-by-id",
     "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "88.44%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
+    "uptime": "99.40%",
+    "uptimeDay": "83.33%",
+    "uptimeWeek": "97.62%",
+    "uptimeMonth": "99.40%",
+    "uptimeYear": "99.40%",
     "time": 380,
     "timeDay": 2158,
     "timeWeek": 1040,
-    "timeMonth": 380,
+    "timeMonth": 394,
     "timeYear": 380,
     "dailyMinutesDown": {
-      "2022-03-10": 166
+      "2022-03-11": 53,
+      "2022-03-10": 187
     }
   },
   {
@@ -86,18 +88,19 @@
     "icon": "https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg",
     "slug": "hermes-login",
     "status": "down",
-    "uptime": "99.05%",
-    "uptimeDay": "82.49%",
-    "uptimeWeek": "97.50%",
-    "uptimeMonth": "99.05%",
-    "uptimeYear": "99.05%",
+    "uptime": "98.87%",
+    "uptimeDay": "77.39%",
+    "uptimeWeek": "96.77%",
+    "uptimeMonth": "98.87%",
+    "uptimeYear": "98.87%",
     "time": 579,
     "timeDay": 3846,
     "timeWeek": 1795,
-    "timeMonth": 579,
+    "timeMonth": 607,
     "timeYear": 579,
     "dailyMinutesDown": {
-      "2022-03-10": 252,
+      "2022-03-11": 53,
+      "2022-03-10": 273,
       "2022-02-11": 132
     }
   },
@@ -107,18 +110,19 @@
     "icon": "https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg",
     "slug": "urbi-backoffice-update-establishment",
     "status": "down",
-    "uptime": "99.33%",
-    "uptimeDay": "81.37%",
-    "uptimeWeek": "97.34%",
-    "uptimeMonth": "99.33%",
-    "uptimeYear": "99.33%",
+    "uptime": "99.15%",
+    "uptimeDay": "76.27%",
+    "uptimeWeek": "96.61%",
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
     "time": 340,
     "timeDay": 1857,
     "timeWeek": 905,
-    "timeMonth": 340,
+    "timeMonth": 346,
     "timeYear": 340,
     "dailyMinutesDown": {
-      "2022-03-10": 268
+      "2022-03-11": 53,
+      "2022-03-10": 289
     }
   },
   {
@@ -135,7 +139,7 @@
     "time": 511,
     "timeDay": 258,
     "timeWeek": 164,
-    "timeMonth": 440,
+    "timeMonth": 417,
     "timeYear": 511,
     "dailyMinutesDown": {
       "2022-03-10": 69,
