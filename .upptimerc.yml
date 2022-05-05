@@ -4,7 +4,7 @@ repo: app-monitor # The name of this repository
 
 sites:
   - name: Urbi
-    url: https://urbi.lilasolutions.com.ar
+    url: https://urbi.lila.com.ar
     icon: https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg
     assignees: 
       - RocioCM
@@ -13,7 +13,7 @@ sites:
       - AgustinDGonzalez
       
   - name: Urbi - Backoffice
-    url: https://urbi.lilasolutions.com.ar/backoffice
+    url: https://urbi.lila.com.ar/backoffice
     icon: https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg
     assignees: 
       - RocioCM
@@ -22,7 +22,7 @@ sites:
       - AgustinDGonzalez
       
   - name: Urbi (GetAllEstablishments)
-    url: https://urbi.lilasolutions.com.ar/api/aegir-backend/establishments
+    url: https://urbi.lila.com.ar/api/aegir-backend/establishments
     icon: https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg
     method: GET
     assignees:
@@ -30,7 +30,7 @@ sites:
       - SebaFuchi
   
   - name: Urbi (GetEstablishmentById)
-    url: https://urbi.lilasolutions.com.ar/api/aegir-backend/establishments/22ffa460-6890-4877-9e23-857565010a8d
+    url: https://urbi.lila.com.ar/api/aegir-backend/establishments/22ffa460-6890-4877-9e23-857565010a8d
     icon: https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg
     method: GET
     assignees:
@@ -39,7 +39,7 @@ sites:
     maxResponseTime: 5000
       
   - name: Hermes - Login
-    icon: https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg
+    icon: https://urbi.lila.com.ar/home/assets/urbi-logotipo.svg
     url: https://urbi.lilasolutions.com.ar/api/hermes-user/users/login?from=aegir-backoffice
     method: POST
     headers: 
@@ -50,7 +50,7 @@ sites:
       - SebaFuchi
      
   - name: Urbi - Backoffice (UpdateEstablishment)
-    icon: https://urbi.lilasolutions.com.ar/home/assets/urbi-logotipo.svg
+    icon: https://urbi.lila.com.ar/home/assets/urbi-logotipo.svg
     url: https://urbi.lilasolutions.com.ar/api/aegir-backend/establishments/df4cfd9c-c753-48d6-aeea-a35934feeb25?part=status
     method: PUT
     headers:
@@ -61,7 +61,7 @@ sites:
       - SebaFuchi
     
   - name: Lila Landing
-    url: https://urbi.lilasolutions.com.ar/landing/
+    url: https://urbi.lila.com.ar/landing/
     icon: https://urbi.lilasolutions.com.ar/landing/images/lila-logo-color.png
     assignees: 
       - RocioCM
