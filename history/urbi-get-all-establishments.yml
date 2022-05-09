@@ -1,7 +1,7 @@
 url: https://urbi.lila.com.ar/api/aegir-backend/establishments
-status: up
-code: 200
-responseTime: 132
-lastUpdated: 2022-05-08T23:20:10.979Z
+status: down
+code: 500
+responseTime: 158
+lastUpdated: 2022-05-09T14:39:36.407Z
 startTime: Fri Feb 11 2022 00:49:30 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
