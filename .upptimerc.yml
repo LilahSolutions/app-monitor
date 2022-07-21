@@ -12,36 +12,37 @@ sites:
       - SebaFuchi
       - AgustinDGonzalez
       
+  - name: Qrio - Api
+    url: https://qrio.com.ar/qrio/api/mp/origin/MP/IPN/4617042972482396-060307-01f071f78d668c70b89786162076a657-1132424683?topic=payment&id=1452147278
+    method: POST
+    
+    icon: https://urbi.lila.com.ar/home/assets/urbi-logotipo.svg
+    assignees:
+      -PatricioHeduan
+      
   - name: Urbi (GetAllEstablishments)
     url: https://urbi.lila.com.ar/api/aegir-backend/establishments
     icon: https://urbi.lila.com.ar/home/assets/urbi-logotipo.svg
     method: GET
-    assignees:
-      - Juanma1223
-      - SebaFuchi
-  
-  - name: Urbi (GetEstablishmentById)
-    url: https://urbi.lila.com.ar/api/aegir-backend/establishments/22ffa460-6890-4877-9e23-857565010a8d
-    icon: https://urbi.lila.com.ar/home/assets/urbi-logotipo.svg
-    method: GET
+    headers:
+      - "Content-Type: application/json"
+    body: '{
+							"key": "topic",
+							"value": "payment"
+						},
+						{
+							"key": "",
+							"value": "",
+							"disabled": true
+						},
+						{
+							"key": "id",
+							"value": "1452147278"
+						}'
     assignees:
       - Juanma1223
       - SebaFuchi
     maxResponseTime: 5000
-     
-     
-  - name: Urbi - Backoffice (UpdateEstablishment)
-    icon: https://urbi.lila.com.ar/home/assets/urbi-logotipo.svg
-    url: https://urbi.lila.com.ar/api/aegir-backend/establishments/df4cfd9c-c753-48d6-aeea-a35934feeb25?part=status
-    method: PUT
-    headers:
-      - "Content-Type: application/json"
-    body: '{ "status": "yellow" }'
-    assignees:
-      - Juanma1223
-      - SebaFuchi
-    
-# assignees:
 
 status-website:
   theme: night
