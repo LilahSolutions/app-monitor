@@ -48,12 +48,12 @@ sites:
     maxResponseTime: 5000
     
     
-    - name: Qrio - Backoffice
-      url: qrio.com.ar/api/qrio-backoffice/client/user/c8e582c7-b4e1-44b9-b484-fd5cec435214
-      method: GET
-      assignees:
+  - name: Qrio - Backoffice
+    url: qrio.com.ar/api/qrio-backoffice/client/user/c8e582c7-b4e1-44b9-b484-fd5cec435214
+    method: GET
+    assignees:
         - PatricioHeduan
-      maxResponseTime: 5000
+    maxResponseTime: 5000
 
 status-website:
   theme: night
