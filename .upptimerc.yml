@@ -25,12 +25,12 @@ sites:
       - PatricioHeduan
     maxResponseTime: 5000
     
-   - name: Qrio - Payments
-     url: https://qrio.com.ar/qrio/api/mp/origin/MP/IPN/4617042972482396-060307-01f071f78d668c70b89786162076a657-1132424683?topic=payment&id=1452147278
-     method: POST
-     headers:
-       - "Content-Type: application/json"
-     body: '{
+  - name: Qrio - Payments
+    url: https://qrio.com.ar/qrio/api/mp/origin/MP/IPN/4617042972482396-060307-01f071f78d668c70b89786162076a657-1132424683?topic=payment&id=1452147278
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{
 		"key": "topic",
 		"value": "payment"
 	},
@@ -42,10 +42,10 @@ sites:
 	{
 		"key": "id",
 		"value": "1452147278"
-     }'
-     assignees:
-       - PatricioHeduan
-     maxResponseTime: 5000
+    }'
+    assignees:
+      - PatricioHeduan
+    maxResponseTime: 5000
     
     
     - name: Qrio - Backoffice
