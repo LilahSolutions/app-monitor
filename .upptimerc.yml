@@ -3,46 +3,57 @@ owner: LilahSolutions # Your GitHub organization or username, where this reposit
 repo: app-monitor # The name of this repository
 
 sites:      
-  - name: Urbi - Backoffice
-    url: https://urbi.lila.com.ar/backoffice
-    icon: https://urbi.lila.com.ar/home/assets/urbi-logotipo.svg
-    assignees: 
-      - RocioCM
-      - Juanma1223
-      - SebaFuchi
-      - AgustinDGonzalez
-      
   - name: Qrio - Api
     url: https://qrio.com.ar/qrio/api/mp/origin/MP/IPN/4617042972482396-060307-01f071f78d668c70b89786162076a657-1132424683?topic=payment&id=1452147278
     method: POST
-    
-    icon: https://urbi.lila.com.ar/home/assets/urbi-logotipo.svg
-    assignees:
-      -PatricioHeduan
-      
-  - name: Urbi (GetAllEstablishments)
-    url: https://urbi.lila.com.ar/api/aegir-backend/establishments
-    icon: https://urbi.lila.com.ar/home/assets/urbi-logotipo.svg
-    method: GET
     headers:
       - "Content-Type: application/json"
     body: '{
-							"key": "topic",
-							"value": "payment"
-						},
-						{
-							"key": "",
-							"value": "",
-							"disabled": true
-						},
-						{
-							"key": "id",
-							"value": "1452147278"
-						}'
+		"key": "topic",
+		"value": "payment"
+	},
+	{
+		"key": "",
+		"value": "",
+		"disabled": true
+	},
+	{
+		"key": "id",
+		"value": "1452147278"
+	}'
     assignees:
-      - Juanma1223
-      - SebaFuchi
+      - PatricioHeduan
     maxResponseTime: 5000
+    
+    - name: Qrio - Payments
+      url: https://qrio.com.ar/qrio/api/mp/origin/MP/IPN/4617042972482396-060307-01f071f78d668c70b89786162076a657-1132424683?topic=payment&id=1452147278
+      method: POST
+      headers:
+        - "Content-Type: application/json"
+      body: '{
+		"key": "topic",
+		"value": "payment"
+	},
+	{
+		"key": "",
+		"value": "",
+		"disabled": true
+	},
+	{
+		"key": "id",
+		"value": "1452147278"
+	}'
+      assignees:
+        - PatricioHeduan
+      maxResponseTime: 5000
+    
+    
+    - name: Qrio - Backoffice
+      url: localhost:8089/api/qrio-backoffice/client/user/c8e582c7-b4e1-44b9-b484-fd5cec435214
+      method: GET
+      assignees:
+        - PatricioHeduan
+      maxResponseTime: 5000
 
 status-website:
   theme: night
